@@ -4,9 +4,7 @@
 **`Developer, ascoltatore di musica accanito, gamer`**
 Appassionato di tecnologia e informatica sin da piccolo, ascolto un sacco di musica e mi piacciono i videogiochi.
 Al momento studio informatica all'Università degli Studi di Salerno.
-Qui ci sono alcuni progetti a cui sto lavorando/lavorato.
-- 🌱 I’m currently learning ...
-
+- Al momento sto lavorando a tante cose 
 
 <!--
 **MoonMr404/MoonMr404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
