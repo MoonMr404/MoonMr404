@@ -2,7 +2,7 @@
 
 
 **`Developer, ascoltatore di musica accanito, gamer`**
-Appassionato di tecnologia e informatica sin da piccolo, ascolto un sacco di musica e mi piacciono i videogiochi.
+Appassionato di tecnologia, informatica, musica e videogiochi.
 Al momento studio informatica all'Università degli Studi di Salerno.
 - Al momento sto lavorando a tante cose 
 
