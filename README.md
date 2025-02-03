@@ -1,12 +1,11 @@
 # MoonMr404
 
 
-**`Developer, ascoltatore di musica accanito, gamer`**
-Appassionato di tecnologia, informatica, musica e videogiochi.
-Al momento studio informatica all'Università degli Studi di Salerno.
-- Al momento sto lavorando a:
-- Portofolio personale
-- Libreria per un motore fisico
+**`Music, Videogames and Computer Science`**
+Università degli Studi di Salerno.
+Currently Working on: 
+- Personal Portfolio
+- Physics Engine/Lib
   
 
 <!--
