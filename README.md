@@ -6,6 +6,7 @@ Università degli Studi di Salerno.
 Currently Working on: 
 - Personal Portfolio
 - Physics Engine/Lib
+- Go Stuff
 - Other projects...
   
 
